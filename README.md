@@ -1,6 +1,6 @@
 # AppExpo
 
-StickerSmash es una aplicación desarrollada en Expo Go que permite a los usuarios seleccionar imágenes y añadir stickers personalizados sobre ellas de manera fácil y rápida.
+StickerSmash es una aplicación desarrollada con Expo Go que permite a los usuarios seleccionar imágenes y añadir stickers personalizados sobre ellas de manera fácil y rápida.
 
 Características
 
